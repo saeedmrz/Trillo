@@ -1,3 +1,3 @@
 # Trillo
 
-A simple project for training CSS Flexbox.
+A simple for CSS Flexbox.
